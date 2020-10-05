@@ -1,0 +1,7 @@
+P:\Digital\VS\18Michael Plummer\High Low\High Low\obj\Debug\High Low.csprojAssemblyReference.cache
+P:\Digital\VS\18Michael Plummer\High Low\High Low\obj\Debug\High Low.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Michael Plummer\High Low\High Low\bin\Debug\High Low.exe.config
+P:\Digital\VS\18Michael Plummer\High Low\High Low\bin\Debug\High Low.exe
+P:\Digital\VS\18Michael Plummer\High Low\High Low\bin\Debug\High Low.pdb
+P:\Digital\VS\18Michael Plummer\High Low\High Low\obj\Debug\High Low.exe
+P:\Digital\VS\18Michael Plummer\High Low\High Low\obj\Debug\High Low.pdb
